@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{Fu0e:function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),r=a.n(t),d=a("17x9"),i=a.n(d),c=a("swfc"),l=a("438m"),o=a.n(l),p=a("Pk93"),u=function(e){var n=e.children;return r.a.createElement(c.a,Object(p.a)(["padding-vertical-4","padding-horizontal-3","background-neutral-lightest"]),r.a.createElement(o.a,null,r.a.createElement(o.a,{bold:!0},"Nerd tip: "),n))};u.propTypes={children:i.a.node.isRequired},u.defaultProps={},n.default=u}}]);
+//# sourceMappingURL=components-nerd-tip.4173b029f0f2fc12a9f0.js.map
